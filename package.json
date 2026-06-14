@@ -1,0 +1,9 @@
+{
+  "name": "softwarefactory-2",
+  "version": "1.0.0",
+  "description": "TP Programación de redes — Prueba CI/CD — IFTS24 Grupo 3",
+  "scripts": {
+    "lint": "npx htmlhint '**/*.html' && npx stylelint '**/*.css' && npx eslint '**/*.js'"
+  },
+  "devDependencies": {}
+}
